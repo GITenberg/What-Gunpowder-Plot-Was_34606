@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33168'
     url: http://www.gutenberg.org/2009/agents/33168
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34606#What-Gunpowder-Plot-Was
 gutenberg_issued: '2010-12-09'
 gutenberg_type: Text
 identifiers:
